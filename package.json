@@ -1,0 +1,15 @@
+{
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luis7x7/emprende_backend.git",
+  "author": "luis <nieblesquinaluisangel@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

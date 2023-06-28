@@ -1,0 +1,12 @@
+envios programados -> cronjobs
+email->enviar emeail de autentixacion
+->middleware-> para autentixacion de usurios
+->babel->para la conpatiblidad en los qrchivos de javascript en diferebte maquinas
+->tamaño de mb con webpack->para reducuir el tamaño
+npm->librerias de terceros
+->sweealert-> avisos
+
+->date-fns fechas
+->mongoose->
+->nodemon-> para refrescar cambios en el backend
+restarting-> para actualizar cambios en el servidor
