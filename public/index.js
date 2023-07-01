@@ -32,7 +32,7 @@ creatbtn.addEventListener("click", function () {
     .then((res) => {
       getTask();
       creatbtn.innerText="crear tarea"
-      input.value=""
+      input.value= ""
       return res.json();
 
       
