@@ -10,7 +10,7 @@ const schema = mongoose.Schema;
 mongoose
   .connect(process.env.MONGODB_URL) 
   .then(() => {
-    console.log("exitosa conex");
+    console.log("exitosa conex!!!");
   })
   .catch((err) => console.log("error de conex", { err }));
 
