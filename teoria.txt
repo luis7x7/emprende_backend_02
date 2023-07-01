@@ -1,6 +1,18 @@
 envios programados -> cronjobs
 email->enviar emeail de autentixacion
-->middleware-> para autentixacion de usurios
+->middleware-> 
+
+funciones que se ejefuta a una ruta que serian controladores de las reques -->logica 
+-->post /api/task
+
+->preposesa la informacion 
+->la info manda deve ser parciar el body de la reques
+
+para autentixacion de usurios
+reques de tipo $_GET[""]
+reques de autentixacion para usuarios
+
+
 ->babel->para la conpatiblidad en los qrchivos de javascript en diferebte maquinas
 ->tamaño de mb con webpack->para reducuir el tamaño
 npm->librerias de terceros
