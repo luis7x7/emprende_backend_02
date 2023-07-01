@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 const schema = mongoose.Schema;
 
 mongoose
-  .connect(process.env.MONGODB_URL)
+  .connect(process.env.MONGODB_URL) 
   .then(() => {
     console.log("exitosa conex");
   })
